@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OSGIDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="SMS">SMS</string>
+    <string name="Call">Call</string>
+    <string name="USSD">USSD</string>
+
+</resources>
